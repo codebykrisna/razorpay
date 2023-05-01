@@ -1412,36 +1412,36 @@ video {
   background-color: rgb(34 197 94 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\/assets\/feature-section-2BG\.svg\)\] {
-  background-image: url(/assets/feature-section-2BG.svg);
+.bg-\[url\(\assets\/feature-section-2BG\.svg\)\] {
+  background-image: url(assets/feature-section-2BG.svg);
 }
 
-.bg-\[url\(\/assets\/instant-settlement-bg\.svg\)\] {
-  background-image: url(/assets/instant-settlement-bg.svg);
+.bg-\[url\(\assets\/instant-settlement-bg\.svg\)\] {
+  background-image: url(assets/instant-settlement-bg.svg);
 }
 
-.bg-\[url\(\/assets\/upi-autopay-bg\.svg\)\] {
-  background-image: url(/assets/upi-autopay-bg.svg);
+.bg-\[url\(\assets\/upi-autopay-bg\.svg\)\] {
+  background-image: url(assets/upi-autopay-bg.svg);
 }
 
-.bg-\[url\(\/assets\/magic-checkout-bg\.svg\)\] {
-  background-image: url(/assets/magic-checkout-bg.svg);
+.bg-\[url\(\assets\/magic-checkout-bg\.svg\)\] {
+  background-image: url(assets/magic-checkout-bg.svg);
 }
 
-.bg-\[url\(\/assets\/payment-button-bg\.svg\)\] {
-  background-image: url(/assets/payment-button-bg.svg);
+.bg-\[url\(\assets\/payment-button-bg\.svg\)\] {
+  background-image: url(assets/payment-button-bg.svg);
 }
 
-.bg-\[url\(\/assets\/instantsettlement-bg\.svg\)\] {
-  background-image: url(/assets/instantsettlement-bg.svg);
+.bg-\[url\(\assets\/instantsettlement-bg\.svg\)\] {
+  background-image: url(assets/instantsettlement-bg.svg);
 }
 
-.bg-\[url\(\/assets\/core-features-sectionBg\.svg\)\] {
-  background-image: url(/assets/core-features-sectionBg.svg);
+.bg-\[url\(\assets\/core-features-sectionBg\.svg\)\] {
+  background-image: url(assets/core-features-sectionBg.svg);
 }
 
-.bg-\[url\(\/assets\/CTABg\.svg\)\] {
-  background-image: url(/assets/CTABg.svg);
+.bg-\[url\(\assets\/CTABg\.svg\)\] {
+  background-image: url(assets/CTABg.svg);
 }
 
 .bg-cover {
@@ -1903,24 +1903,24 @@ body,html {
   background-color: rgb(11 114 231 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-\[url\(\/assets\/instant-settlement-bghover\.svg\)\]:hover {
-  background-image: url(/assets/instant-settlement-bghover.svg);
+.hover\:bg-\[url\(\assets\/instant-settlement-bghover\.svg\)\]:hover {
+  background-image: url(assets/instant-settlement-bghover.svg);
 }
 
-.hover\:bg-\[url\(\/assets\/upi-autopay-hoverbg\.svg\)\]:hover {
-  background-image: url(/assets/upi-autopay-hoverbg.svg);
+.hover\:bg-\[url\(\assets\/upi-autopay-hoverbg\.svg\)\]:hover {
+  background-image: url(assets/upi-autopay-hoverbg.svg);
 }
 
-.hover\:bg-\[url\(\/assets\/magic-checkout-hoverbg\.svg\)\]:hover {
-  background-image: url(/assets/magic-checkout-hoverbg.svg);
+.hover\:bg-\[url\(\assets\/magic-checkout-hoverbg\.svg\)\]:hover {
+  background-image: url(assets/magic-checkout-hoverbg.svg);
 }
 
-.hover\:bg-\[url\(\/assets\/payment-button-hoverbg\.svg\)\]:hover {
-  background-image: url(/assets/payment-button-hoverbg.svg);
+.hover\:bg-\[url\(\assets\/payment-button-hoverbg\.svg\)\]:hover {
+  background-image: url(assets/payment-button-hoverbg.svg);
 }
 
-.hover\:bg-\[url\(\/assets\/instantsettlement-hoverbg\.svg\)\]:hover {
-  background-image: url(/assets/instantsettlement-hoverbg.svg);
+.hover\:bg-\[url\(\assets\/instantsettlement-hoverbg\.svg\)\]:hover {
+  background-image: url(assets/instantsettlement-hoverbg.svg);
 }
 
 .hover\:bg-cover:hover {
