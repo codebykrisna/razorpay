@@ -1412,10 +1412,9 @@ video {
   background-color: rgb(34 197 94 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\assets\/feature-section-2BG\.svg\)\] {
-  background-image: url(assets/feature-section-2BG.svg);
+.featureSection2Bg {
+  background-image : url("assets/feature-section-2BG.svg");
 }
-
 .bg-\[url\(\assets\/instant-settlement-bg\.svg\)\] {
   background-image: url(assets/instant-settlement-bg.svg);
 }
