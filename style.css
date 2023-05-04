@@ -1439,8 +1439,8 @@ video {
   background-image: url(assets/core-features-sectionBg.svg);
 }
 
-.bg-\[url\(\assets\/CTABg\.svg\)\] {
-  background-image: url(assets/CTABg.svg);
+.ctaSection{
+  background-image: url("assets/CTABg.svg");
 }
 
 .bg-cover {
