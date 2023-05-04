@@ -1435,8 +1435,8 @@ video {
   background-image: url(assets/instantsettlement-bg.svg);
 }
 
-.bg-\[url\(\assets\/core-features-sectionBg\.svg\)\] {
-  background-image: url(assets/core-features-sectionBg.svg);
+.coreFeaturesBg {
+  background-image: url("assets/core-features-sectionBg.svg");
 }
 
 .ctaSection{
